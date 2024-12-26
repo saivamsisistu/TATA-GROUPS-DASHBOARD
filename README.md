@@ -88,3 +88,30 @@ Key Insights:
 
 ---
 
+
+## 💻 **How to Run the Project**
+
+1. Clone the Repository:
+
+```bash
+   git clone https://github.com/yourusername/TATA-GROUPS-DASHBOARD.git
+```
+2. Navigate to the Directory:
+```bash
+ cd tata-dashboard
+```
+3. Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+4. Run the Application:
+```bash
+ python main.py
+```
+
+##  **👨‍💻 Author**
+- Sai Vamsi Sistu
+
+- Email: 2100080214ai.ds@gmail.com
+
+- LinkedIn: www.linkedin.com/in/saivasmisistu
