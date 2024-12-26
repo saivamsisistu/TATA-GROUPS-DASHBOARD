@@ -67,7 +67,7 @@ Similar to the NSE Price Trends, this bar chart compares the stock prices of Tat
 
 ![t5](https://github.com/user-attachments/assets/650b1809-1c68-4858-9bdc-78e4631876a3)
 ---
-##4. **Percentage Change in Stock Prices**
+## 4. **Percentage Change in Stock Prices**
 This section compares the percentage change in the stock prices of Tata Group companies on the NSE and BSE. The percentage change indicates how much the stock price has increased or decreased over a period.
 
 Key Insights:
@@ -86,4 +86,5 @@ Key Insights:
 
 ![t7](https://github.com/user-attachments/assets/ddfd8b34-6622-4172-8583-48c8dccec5db)
 
+---
 
