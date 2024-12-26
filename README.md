@@ -5,7 +5,7 @@ This project presents a Performance Dashboard for Tata Group companies using fin
 
 ---
 
-### ** 💡Motive**:
+### **💡Motive**:
 The primary motivation behind creating the Tata Group Performance Dashboard was to showcase my skills in data visualization, analysis, and Python development. I aimed to build a project that would not only provide valuable insights into the performance of Tata Group companies but also demonstrate my ability to work with diverse data sources and create interactive dashboards. The project was developed to impress the interviewers at TCS Digital Role, reflecting my passion for data-driven insights and my technical expertise in the field.
 
 ---
