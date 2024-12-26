@@ -4,6 +4,15 @@
 This project presents a Performance Dashboard for Tata Group companies using financial data retrieved from the yfinance library. The dashboard provides insights into stock performance, trends, and financial metrics, enabling data-driven analysis and decision-making.
 
 ---
+
+### ** 💡Motive**:
+The primary motivation behind creating the Tata Group Performance Dashboard was to showcase my skills in data visualization, analysis, and Python development. I aimed to build a project that would not only provide valuable insights into the performance of Tata Group companies but also demonstrate my ability to work with diverse data sources and create interactive dashboards. The project was developed to impress the interviewers at TCS Digital Role, reflecting my passion for data-driven insights and my technical expertise in the field.
+
+---
+### **🏆Achievement**:
+This project played a pivotal role in my selection for the TCS Digital Role. During the interview process, I engaged the interviewer by presenting the Tata Group Performance Dashboard, showcasing key insights from the stock performance of Tata Group companies. The project effectively demonstrated my proficiency in data analysis, visualization, and Python programming, leading to my successful selection for the role.
+
+---
 ### **🚀 Features**
 
 1. **Multi-Company Comparison**: Compare the historical close prices of selected Tata Group companies using an interactive chart.
