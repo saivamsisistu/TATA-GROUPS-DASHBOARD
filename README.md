@@ -29,5 +29,11 @@ This project presents a Performance Dashboard for Tata Group companies using fin
 
 ## Home page outlook
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![t1](https://github.com/user-attachments/assets/800d2599-5013-42f8-b10c-b19a30bb2a9b)
+![t2](https://github.com/user-attachments/assets/c5a971a4-1019-4b1a-8d0e-1b780fb93112)
+![t4](https://github.com/user-attachments/assets/908e02ac-6cfd-41bd-8736-b3890a379a86)
+![t5](https://github.com/user-attachments/assets/650b1809-1c68-4858-9bdc-78e4631876a3)
+![t6](https://github.com/user-attachments/assets/2a6decd5-556f-4047-9ace-9b68f1fa2d93)
+![t7](https://github.com/user-attachments/assets/ddfd8b34-6622-4172-8583-48c8dccec5db)
+
 
